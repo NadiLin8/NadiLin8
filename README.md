@@ -12,7 +12,7 @@
 
 ### 🌷 About Me
 
-Fresh grad from seneca polytechnic (computer programming & analysis) who loves finding stories hidden in data. I believe good analysis isn't just about numbers — it's about asking the right questions.
+Fresh grad from Seneca Polytechnic (Computer Programming & Analysis) who loves finding stories hidden in data. I believe good analysis isn't just about numbers — it's about asking the right questions.
 
 - 📊 currently building my data analytics portfolio
 - 🌱 looking for junior data analyst roles in toronto
