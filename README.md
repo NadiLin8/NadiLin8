@@ -1,6 +1,6 @@
 <div align="center">
 
-# ✨ nadi aung lin ✨
+# Nadi Aung Lin
 
 *data analyst · problem solver · detail-oriented*
 
