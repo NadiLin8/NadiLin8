@@ -10,9 +10,9 @@
 
 ---
 
-### 🌷 about me
+### 🌷 About Me
 
-fresh grad from seneca polytechnic (computer programming & analysis) who loves finding stories hidden in data. i believe good analysis isn't just about numbers — it's about asking the right questions.
+Fresh grad from seneca polytechnic (computer programming & analysis) who loves finding stories hidden in data. I believe good analysis isn't just about numbers — it's about asking the right questions.
 
 - 📊 currently building my data analytics portfolio
 - 🌱 looking for junior data analyst roles in toronto
@@ -21,7 +21,7 @@ fresh grad from seneca polytechnic (computer programming & analysis) who loves f
 
 ---
 
-### 🛠️ tools i work with
+### 🛠️ Tools I Work With
 
 🔢 **data & analytics** → python · pandas · numpy · scikit-learn · power bi · excel
 
@@ -33,7 +33,7 @@ fresh grad from seneca polytechnic (computer programming & analysis) who loves f
 
 ---
 
-### 🌸 featured projects
+### 🌸 Featured Projects
 
 🏪 **[canadian retail sales analytics](https://github.com/NadiLin8/retail-analytics)**
 > python etl · sql · power bi · 60,763 transactions analyzed across 7 canadian stores
@@ -49,9 +49,9 @@ fresh grad from seneca polytechnic (computer programming & analysis) who loves f
 
 ---
 
-### 📬 let's connect!
+### 📬 Let's Connect!
 
-i'm always happy to chat about data, projects, or opportunities 🌷
+I'm always happy to chat about data, projects, or opportunities 🌷
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-nadi--lin-b5c9e8?style=flat&logo=linkedin)](https://www.linkedin.com/in/nadi-lin-187660276/)
 [![github](https://img.shields.io/badge/GitHub-NadiLin8-f2c4ce?style=flat&logo=github)](https://github.com/NadiLin8)
